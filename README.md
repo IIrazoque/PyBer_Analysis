@@ -9,48 +9,52 @@ We create a dataframe displaying total rides, driver and fares based on city typ
 
 *Figure A - PyBer Summary Dataframe*
 
-![This is an image]
+![This is an image](https://github.com/IIrazoque/PyBer_Analysis/blob/adc6ff56d00521d0b1c1ae4bc0ac52534ad25597/Resources/Pyber_summary_df.PNG)
  
 A bubble chart was also created displaying the total number of rides per city and their average fare. We can also see urban driver’s fulling more rides as this correlate to the circle size per city. As seen in rural areas “yellow” circles, drivers are a lot higher in fare rates yet set lower in ride counts.
+
 *Figure 1 - PyBer Ride-Sharing Data 2019*
 
-![This is an image]
+![This is an image](https://github.com/IIrazoque/PyBer_Analysis/blob/adc6ff56d00521d0b1c1ae4bc0ac52534ad25597/fig1.png)
  
 ## PyBer Driver Statistics
 Driver counts are displayed below in the boxplot chart along with percentage of Pyber drivers in the pie chart. In the boxplot we see min, max, and averages of each city drivers. Again to show the demand of drivers in rural areas (2.6%) is drastically smaller than urban areas( 80.9% ).
 
 *Figure 4 - Driver Count Data (2019)*
-![This is an image]
+
+![This is an image](https://github.com/IIrazoque/PyBer_Analysis/blob/adc6ff56d00521d0b1c1ae4bc0ac52534ad25597/fig4.png)
  
 *Figure 7 - Percent of Total Drivers by City Types*
-![This is an image]
+
+![This is an image](https://github.com/IIrazoque/PyBer_Analysis/blob/adc6ff56d00521d0b1c1ae4bc0ac52534ad25597/fig7.png)
  
-### PyBer Rides Statistics
+## PyBer Rides Statistics
 The following box plot  chart shows ride counts per city. As with the driver statistics, there seems to be correlation between driver counts and rides. We also see an outlier (Figure B). Urban areas are 68.4% of all PyBer rides!
 
 *Figure 2 - Ride Count Data 2019*
 
-![This is an image]
+![This is an image](https://github.com/IIrazoque/PyBer_Analysis/blob/adc6ff56d00521d0b1c1ae4bc0ac52534ad25597/fig2.png)
  
 *Figure 6 - Percent of Total Rides by City Types*
 
-![This is an image]
+![This is an image](https://github.com/IIrazoque/PyBer_Analysis/blob/adc6ff56d00521d0b1c1ae4bc0ac52534ad25597/fig6.png)
  
 *Figure B – Urban Outlier*
+
+![This is an image](https://github.com/IIrazoque/PyBer_Analysis/blob/adc6ff56d00521d0b1c1ae4bc0ac52534ad25597/Resources/urban_ride_count_outlier.PNG)
+
 Python function to retrieve additional details on the outlier. West Angela has the highest rider count. Meaning this urban town has the highest ride demand.
 
-![This is an image] 
-
-### PyBer Fares Statistics
+## PyBer Fares Statistics
 When it comes to Pyber Fare we can see a similar rate regardless of the city. Although Rural areas may be a bit more, the average fares fall between $24 - $35 per ride. We can see Urban area make up most of the revenue (62.7%) for Pyber rides.
 
 *Figure 3 - Fare Data per City  2019*
 
-![This is an image]
+![This is an image](https://github.com/IIrazoque/PyBer_Analysis/blob/adc6ff56d00521d0b1c1ae4bc0ac52534ad25597/fig3.png)
  
 *Figure 5 -  Percent of Total Fares by City Types*
 
-![This is an image]
+![This is an image](https://github.com/IIrazoque/PyBer_Analysis/blob/adc6ff56d00521d0b1c1ae4bc0ac52534ad25597/fig5.png)
  
 
 ## Summary: 
